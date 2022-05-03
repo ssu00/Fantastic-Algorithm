@@ -5,3 +5,7 @@
 4. [81301: 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
 5. [67256: 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 6. [64061: 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+7. [86051: 없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)
+8. [76501: 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
+9. [70128: 내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
+10. [12977: 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
