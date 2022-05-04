@@ -1,4 +1,5 @@
 #Lv1. 문제
+
 1. [92334: 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 2. [77484: 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 3. [72410: 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
@@ -9,3 +10,13 @@
 8. [76501: 음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)
 9. [70128: 내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 10. [12977: 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+11. [1845: 폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+12. [42889: 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+13. [77884: 약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)
+14. [68935: 3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+15. [17682: 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+16. [86491: 최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)
+17. [87389: 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
+18. [82612: 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
+19. [17681: 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+20. [42862: 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
