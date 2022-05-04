@@ -1,4 +1,5 @@
 #Lv1. 문제
+
 1. [92334: 신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
 2. [77484: 로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)
 3. [72410: 신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)
@@ -18,3 +19,4 @@
 17. [87389: 나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)
 18. [82612: 부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)
 19. [17681: 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)
+20. [42862: 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
