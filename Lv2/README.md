@@ -9,3 +9,7 @@
 7. [12973: 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)
 8. [77485: 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)
 9. [72411: 메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+10. [60058: 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+11. [17677: 뉴스 클러스트링](https://programmers.co.kr/learn/courses/30/lessons/17677)
+12. [81302: 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+13. [64065: 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
