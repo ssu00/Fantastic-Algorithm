@@ -13,3 +13,5 @@
 11. [17677: 뉴스 클러스트링](https://programmers.co.kr/learn/courses/30/lessons/17677)
 12. [81302: 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
 13. [64065: 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)
+14. [67257: 수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+15. [42890: 후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)
